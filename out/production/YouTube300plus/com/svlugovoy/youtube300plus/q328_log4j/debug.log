@@ -1,0 +1,8 @@
+2015-12-14 18:23:08  INFO main OrderLogic:doOrder:24 - Это информационное сообщение!
+2015-12-14 18:23:08 ERROR main OrderLogic:addToCart:32 - Это сообщение ошибки
+2015-12-14 18:23:54  INFO main OrderLogic:doOrder:24 - Это информационное сообщение!
+2015-12-14 18:23:54 ERROR main OrderLogic:addToCart:32 - Это сообщение ошибки
+2015-12-14 18:25:19  INFO main OrderLogic:doOrder:24 - Это информационное сообщение!
+2015-12-14 18:25:19 ERROR main OrderLogic:addToCart:32 - Это сообщение ошибки
+2015-12-14 18:25:31  INFO main OrderLogic:doOrder:24 - Это информационное сообщение!
+2015-12-14 18:25:31 ERROR main OrderLogic:addToCart:32 - Это сообщение ошибки
