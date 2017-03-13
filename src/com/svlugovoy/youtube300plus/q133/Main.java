@@ -1,9 +1,6 @@
 package com.svlugovoy.youtube300plus.q133;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Date;
-import java.util.Iterator;
+import java.util.*;
 
 /**
  * @author Sergey Lugovoy <svlugovoy@gmail.com> 12.02.2016.
@@ -25,7 +22,7 @@ public class Main {
         System.out.println(Arrays.toString(strings));
 
         ArrayList list1 = new ArrayList();
-
+        Hashtable ht = new Hashtable();
         System.out.println(list1);
 
         ArrayList<String> list2 = new ArrayList();

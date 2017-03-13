@@ -10,13 +10,17 @@ import java.util.Vector;
  */
 public class TestSpeed {
 
-    public static final int COUNT = 1_000_000;
+//    public static final int COUNT = 1_000_000;
+    public static int COUNT = 1_000_000;
 
     public static void main(String[] args) {
 
         List<Integer> arrayList = new ArrayList<>();
         List<Integer> linkedList = new LinkedList<>();
         List<Integer> vector = new Vector<>();
+
+//        COUNT = COUNT * 2;
+        COUNT *= 2;
 
         // добавление COUNT-числа элементов
         System.out.println("----------------------------");
