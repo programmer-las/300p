@@ -1,4 +1,4 @@
-package CS.CS003_02;
+package CS.CS004;
 
 /**
  * Created by a on 12.03.2017.
